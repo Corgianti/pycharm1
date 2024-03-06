@@ -1,2 +1,2 @@
 print("Antek")
-print(2+7)
+print(150 + 8.5)
